@@ -35,10 +35,4 @@ This Chrome Extension analyzes any active web page and provides details about it
 - **HTML, CSS, JavaScript**
 - Chrome Extensions API (Manifest V3)
 
----
 
-## 📦 Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/web-page-analyzer.git
-   cd web-page-analyzer
